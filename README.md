@@ -1,2 +1,2 @@
 # PythonPractice
-https://www.learnpython.org/
+Refreshing my feel of python from https://www.learnpython.org/
